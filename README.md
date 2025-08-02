@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-## Project info
 
-**URL**: https://lovable.dev/projects/8ee308dc-4a52-4dd7-9c15-840f1a19b6b2
+# Rizzz-meter 🎯
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+## Basic Details
+### Team Name: Niveditha
 
-**Use Lovable**
+### Project Description
+Rizzz Meter listens to your voice and analyzes how much charm, confidence, and flirt energy you’ve got. It then scores your rizz level 
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8ee308dc-4a52-4dd7-9c15-840f1a19b6b2) and start prompting.
+### The Problem (that doesn't exist)
+There’s too much Rizz in the air, but nothing to measure it
 
-Changes made via Lovable will be committed automatically to this repo.
+### The Solution (that nobody asked for)
+Rizzz Meter uses voice analysis to detect tone, confidence, and delivery — turning your smooth talk into a measurable rizz score. Finally, a fun and tech-powered way to quantify your charm!
 
-**Use your preferred IDE**
+## Technical Details
+### Technologies/Components Used
+For Software:
+- HTML, Tailwind
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Implementation
+For Software:
+# Installation
+Install github and VS code
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+# Run
+Clone project
 
-Follow these steps:
+### Project Documentation
+For Software:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Screenshots (Add at least 3)
+https://drive.google.com/drive/folders/12nFl97QmTkyAm4S5yaIUcV5Nu3GAZR1f
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Project Demo
+# Video
+https://drive.google.com/file/d/1gEkQ7Q8Km36Hn-oUgCicTBQk_XCxnILs/view
+As you start recording, speak with rizz. Once you stop, the meter will analyze and measure your rizz level.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+# Additional Demos
+[Add any extra demo materials/links]
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
+Made with ❤️ at TinkerHub Useless Projects 
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8ee308dc-4a52-4dd7-9c15-840f1a19b6b2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
